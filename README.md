@@ -1,6 +1,15 @@
 # PeacefulEnum
 Peaceful Enum. Helper methods around C# enumerations for common use cases
 
+# Install via nuget
+```
+Install-Package PeacefulEnum -Version 1.0.0
+```
+Package available at: https://www.nuget.org/packages/PeacefulEnum/
+
+Github: https://github.com/ajjadoon18/PeacefulEnum
+
+# Docs
 - IsEnumValid
 
 Validates that enum value is in valid range and not null
