@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeacefulEnum", "PeacefulEnum\PeacefulEnum.csproj", "{34880149-667B-4E5A-8984-419DDEC623B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeacefulEnum.Test", "PeacefulEnum.Test\PeacefulEnum.Test.csproj", "{BB03CE44-7375-4ADD-9C48-0BDD0914CC3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34880149-667B-4E5A-8984-419DDEC623B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34880149-667B-4E5A-8984-419DDEC623B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34880149-667B-4E5A-8984-419DDEC623B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34880149-667B-4E5A-8984-419DDEC623B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB03CE44-7375-4ADD-9C48-0BDD0914CC3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB03CE44-7375-4ADD-9C48-0BDD0914CC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB03CE44-7375-4ADD-9C48-0BDD0914CC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB03CE44-7375-4ADD-9C48-0BDD0914CC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0EF1DAF-260A-4C16-A9F2-9CDAEA6BDFB7}
+	EndGlobalSection
+EndGlobal
