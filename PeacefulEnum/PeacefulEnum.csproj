@@ -1,6 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+	<PackageId>PeacefulEnum</PackageId>
+	<Version>1.1.0</Version>
+	<Authors>AJ Jadoon</Authors>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
